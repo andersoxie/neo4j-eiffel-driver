@@ -3,6 +3,8 @@ Neo4j Driver for Eiffel
 
 Tested with neo4j database version 4.1.3 and ISE Eiffel Studio version 19.05 and 20.11. Both on Windows 10 and Ubuntu 20.04.1 LTS
 
+2023-03-15. Now also tested with ISE Eiffel Studio 22.05 on both Windows 10 and Ubuntu 18.04.6 LTS.
+
 This implementation is not complete and it is based on the HTTP API which does support Community Edition and Enterprise Edition of neo4j but not AuraDB.
 
 
